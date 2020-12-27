@@ -1,1 +1,2 @@
-# Minecraft-Building-Generator
+# Minecraft Building Generator
+
