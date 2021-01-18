@@ -1,2 +1,2 @@
-# Minecraft Building Generator
+# MC City Maker
 
